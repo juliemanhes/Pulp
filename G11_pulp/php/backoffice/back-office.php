@@ -1,6 +1,6 @@
 <?php
 
-require_once "connect.php";
+require_once "../connect.php";
 
 
 $sql = "SELECT `id`, `titre`, `realisateur`, `date`, `genre`, `img`, `visible`, `description`
@@ -28,7 +28,6 @@ $row = $stmt->fetch(PDO::FETCH_ASSOC);
 <style>
     img {
         width: 100%;
-        /*height: 300px;*/
     }
 
     a {
@@ -44,7 +43,6 @@ $row = $stmt->fetch(PDO::FETCH_ASSOC);
 <form method="post" action="add.php">
     <fieldset>
 
-        <legend>BACK-OFFICE</legend>
 
         <div>
             <label for="Titre">Titre</label>

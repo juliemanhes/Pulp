@@ -1,21 +1,21 @@
 <?php
-require_once "connect.php";
+require_once "../connect.php";
 if(isset($_GET['id'])){
     $id = (int) $_GET['id'];
 } else {
     header('Location: back-office.php');
 }
-$sql = "SELECT 
-    `id`, 
-    `titre`, 
-    `realisateur`, 
-    `date`, 
-    `genre`, 
+$sql = "SELECT
+    `id`,
+    `titre`,
+    `realisateur`,
+    `date`,
+    `genre`,
     `description`,
      `img`
-FROM 
-    `films` 
-WHERE 
+FROM
+    `films`
+WHERE
   id = :id
 ;";
 $stmt = $pdo->prepare($sql);

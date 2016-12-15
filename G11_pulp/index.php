@@ -37,11 +37,7 @@ $stmt->execute();
       <img src="img-content/accueilsweet16.jpg" alt="metropolis" width="100%" id="metro">
     </header>
     <main>
-        <div class="trait1">
-        </div>
         <h2>NOTRE SELECTION VOD DE LA SEMAINE</h2>
-        <div class="trait2">
-        </div>
         <section class="list2" id="sectionune">
           <?php while($row = $stmt->fetch(PDO::FETCH_ASSOC)):?>
             <div class="icon2"><a href="php/show2.php?id=<?=$row['id']?>"><img src="img-content/<?=$row['img']?>"></a></div>
