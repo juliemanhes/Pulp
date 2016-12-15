@@ -1,0 +1,92 @@
+/*Semaine intensive de PHP*/
+
+Thème Cinéma 
+
+Reprendre les contenus gratuit d'internet.
+
+
+
+Catégorie Webseries                 
+
+1- Ulysse                                                                            
+2-Le Visiteur du Futur 
+3- Les Kassos 
+4- Warpzone project 
+5- Les Segpa 
+6- The Guild
+7- Noob
+8- Realer 
+9- En passant pecho 
+10- Hero corp 
+11- J'ai jamais su dire non 
+12- La theorie des Balls
+13- Nexus VI
+14- Les deguns 
+
+
+
+Catégorie Humour                                         
+
+1- Palmashow
+2- Bref 
+3- BloquËs 
+4- Flanders compagny
+5- Bat et gael 
+6- Woop
+7- Les deguns 
+8- Norman
+9- Studio bagel
+10- Recette pompette 
+
+
+
+Catégorie Films
+
+1- M le Maudit, Fritz Lang
+2- 12 Angry Men, Sidney Lumet
+3- The Phantom of the Opera, Rupert Julian
+4- Night of the Living Dead, George A. Romero
+5- The Vagabond, Charlie Chaplin
+6- A Star is Born, George Cukor
+7- L’idiot, Kurosawa
+8- Citizen Kane, Orson Welles
+9- Dr. Strangelove, Kubrick
+10- The 39 Steps, Alfred Hitchcock
+11- Macbeth, Orson Welles
+12- Nosferatu, Friedrich Wilhelm Murnau
+
+
+
+Catégorie Documentaire 
+
+Streetwise
+1984 ‧ Cinéma indépendant/Documentaire
+Réalisateur : Martin Bell
+https://www.youtube.com/watch?v=5lTQgfXb87k
+
+Flyin' Cut Sleeves
+1993 ‧ Documentaire
+Réalisateurs : Henry Chalfant, Rita Fecher
+https://www.youtube.com/watch?v=wwFb5-mygJg
+
+DIRTY GIRLS 
+1996 Documentary
+MICHAEL LUCID
+https://www.youtube.com/watch?v=h3MxEHQk644
+
+FLORIDA MAN 
+(2015 documentaire
+SEAN DUNNE
+https://www.youtube.com/watch?v=i67f8nVsdAI
+
+GREY GARDENS 
+1975 Documentaire
+THE MAYSLES BROTHERS
+https://www.youtube.com/watch?v=UTNWgb75cIc
+
+PARIS IS BURNING 
+1990 Documentaire
+JENNIE LIVINGSTON
+https://www.youtube.com/watch?v=k70tlLetqqw
+
+
