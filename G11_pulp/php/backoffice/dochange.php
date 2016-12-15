@@ -1,12 +1,12 @@
 <?php
-require_once "connect.php";
+require_once "../connect.php";
 
 $sql = "UPDATE
     `films`
-    SET 
-    `titre`= :titre, 
-    `realisateur`= :realisateur, 
-    `date`= :epoque, 
+    SET
+    `titre`= :titre,
+    `realisateur`= :realisateur,
+    `date`= :epoque,
     `genre`= :genre
     WHERE
     id = :id;";

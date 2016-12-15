@@ -1,7 +1,7 @@
 <?php
 
 
-require_once "connect.php";
+require_once "../connect.php";
 $sql = "INSERT INTO `films`
 (`titre`, `realisateur`, `genre`, `date`,`description`, `img`)
 VALUES

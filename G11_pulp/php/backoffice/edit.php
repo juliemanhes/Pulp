@@ -1,6 +1,6 @@
 <?php
 
-require_once "connect.php";
+require_once "../connect.php";
 
 if(isset($_GET['id'])){
     $id = (int) $_GET['id'];
